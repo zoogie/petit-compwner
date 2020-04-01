@@ -42,4 +42,5 @@ A: You don't download anything here. The Release tab has the QRs to scan. Have f
 ## Thanks 
 
 - ChampionLeake for testing
+- Fincs for miniTwlPayload
 - The app's dev for documenting the bug on their website
