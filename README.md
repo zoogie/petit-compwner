@@ -35,7 +35,7 @@ Be careful to ONLY use the b9sTool version that supports YOUR 3ds firmware.<br>
 3. Run petit compwner and select Install Boot9strap after b9sTool launches.<br>
 That's it. You have cfw.<br>
 
-Q: What is that thing in the bottom right corner that looks like a Missingno?
+Q: What is that thing in the bottom right corner that looks like a Missingno?<br>
 A: That's Missingno's cousin :p But really, it's miniTwlPayload (the boot.nds loader), which is displayed on screen since it's loaded into VRAM<br>
 from the GRP graphics file I embedded it in.
 
