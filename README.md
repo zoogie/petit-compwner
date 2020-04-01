@@ -8,7 +8,7 @@ This game is not available on the eshop anymore, although it was available on bo
 
 ## Directions 
 
-Just scan the 5 QRs in Petit Computer's File Management option, then run the program "PWN".<br>
+Just scan the [5 QRs](https://github.com/zoogie/petit-compwner/releases) in Petit Computer's File Management option, then run the program "PWN".<br>
 (make sure to have a boot.nds on the SD root)
 
 
