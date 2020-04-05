@@ -3,7 +3,7 @@
 ## Intro
 
 This is a new primary exploit for Petit Computer v2.2, US only. 2.2 is the only US version.<br>
-All other regions are patched.<br>
+All other regions are patched on their latest versions.<br>
 This game is not available on the eshop anymore, although it was available on both the 3ds and DSi shops at one point.<br>
 
 ## Directions 
@@ -34,6 +34,15 @@ Be careful to ONLY use the b9sTool version that supports YOUR 3ds firmware.<br>
 2. Get luma3ds from [here](https://github.com/AuroraWright/Luma3DS/releases) and also put that on your 3ds SD card root as well.<br>
 3. Run petit compwner and select Install Boot9strap after b9sTool launches.<br>
 That's it. You have cfw.<br>
+
+Q: You mentioned, "patched on their latest versions". So what other versions are exploitable?<br>
+A: Japan has some older versions that are exploitable but I doubt it's worth it to support these given their relative rarity.<br>
+These would include:<br>
+Puchikon mkII - 2.1 and 2.0<br>
+Puchikon - all versions<br>
+The Puchikon mkII versions are similar to Petit Computer in the west, and the original Puchikon is like a prequel to Petit Computer.<br>
+The main difference of Puchikon is that it doesn't have a QR reading function (so it would be REALLY hard to support as a primary).<br>
+If someone wants to take up supporting these older versions, be my guest. The project is open source.
 
 Q: What is that thing in the bottom right corner that looks like a Missingno?<br>
 A: That's Missingno's cousin :p But really, it's miniTwlPayload (the boot.nds loader), which is displayed on screen since it's loaded into VRAM
